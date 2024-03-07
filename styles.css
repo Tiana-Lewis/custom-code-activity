@@ -21,8 +21,10 @@ h1 {
 p {
     color: white;
      max-width: 500px;
+     justify-content: center;
      text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
 }
 
 .button {
